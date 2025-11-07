@@ -40,7 +40,7 @@ Construí o site com foco em **design limpo, usabilidade e responsividade**, par
 
 Você pode acessar o portfólio diretamente pelo GitHub Pages (ou outro serviço de hospedagem, caso publique futuramente):
 
-  > 🔗 [Acesse o meu portfólio(https://LuizCaua10.github.io/portfolio-Luiz-Caua)
+  > 🔗 [Acesse o meu portfólio](https://LuizCaua10.github.io/portfolio-Luiz-Caua)
 
 ---
 
